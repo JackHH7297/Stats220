@@ -2,7 +2,7 @@
 
 **This is how the finished product looks like**
 
-![A1_Meme](A1_Part1.jpg)
+![A1_Meme](A1_meme.jpg)
 
 ## Meme explanation
 
