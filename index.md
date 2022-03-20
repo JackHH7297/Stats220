@@ -4,7 +4,11 @@
 
 ![A1_Meme](A1_meme.jpg)
 
-## Meme explanation
+## Some concepts behind this meme
+1. ~~Based on true personal experience.~~
+2. The format of this meme is adapted from the common meme formats out there.
+3. Inspired from similar memes.
+4. This picture was used in lots of other memes for thinking smart.
 
 
 
