@@ -4,10 +4,10 @@
 
 Stats 220 GitHub Repo website: [Click me](https://jackhh7297.github.io/Stats220/).
 
-Some wishes for this course:
+My wishes for this course:
 - Hope I do good
 - Hope I still remember all contents after graduation
-- Get ready for Stats 380
+- Help me to get ready for Stats 380
 
 I am open for any potential suggestion/recommendations.
 Take your time and enjoy my work.
