@@ -5,8 +5,10 @@
 Stats 220 GitHub Repo url: [Click me](https://jackhh7297.github.io/Stats220/).
 
 Some wishes for this course:
-- Hope I get A+
+- Hope I do good
 - Hope I still remember all contents after graduation
 - Get ready for Stats 380
 
+I am open for any potential suggestion/recommendations.
+Take your time and enjoy my work.
 ![1](https://www.pngitem.com/pimgs/m/248-2487139_cartoon-welcome-gestures-png-download-welcome-cartoon-png.png)
