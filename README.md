@@ -11,4 +11,4 @@ Some wishes for this course:
 
 I am open for any potential suggestion/recommendations.
 Take your time and enjoy my work.
-![1](https://www.pngitem.com/pimgs/m/248-2487139_cartoon-welcome-gestures-png-download-welcome-cartoon-png.png)
+![Link to this cool picture](https://www.pngitem.com/pimgs/m/248-2487139_cartoon-welcome-gestures-png-download-welcome-cartoon-png.png)
